@@ -1,0 +1,3 @@
+[submodule "muTranslit"]
+	path = muTranslit
+	url = https://github.com/vipranarayan14/muTranslit.git
