@@ -1,3 +1,6 @@
 [submodule "muTranslit"]
 	path = muTranslit
 	url = https://github.com/vipranarayan14/muTranslit.git
+[submodule "chandas-parser"]
+	path = chandas-parser
+	url = https://github.com/vipranarayan14/chandas-parser.git
