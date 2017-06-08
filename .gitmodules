@@ -4,6 +4,3 @@
 [submodule "chandas-parser"]
 	path = chandas-parser
 	url = https://github.com/vipranarayan14/chandas-parser.git
-[submodule "tapasya-ks"]
-	path = tapasya-ks
-	url = https://github.com/vipranarayan14/tapasya-ks
